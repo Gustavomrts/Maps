@@ -16,7 +16,7 @@ Extração de informações de empresas do Google Maps para captação de leads.
 # Sidebar com configurações
 with st.sidebar:
     st.header("🔑 Configurações")
-    api_key = st.text_input("AIzaSyAXQNMhXJvbgv_PFzYATKubrUMs9LkUQto", type="password")
+    api_key = st.text_input("Minha API", type="password")
     st.markdown("""
     ### Como usar:
     1. Obtenha uma API Key do [Google Cloud Platform](https://console.cloud.google.com/)
