@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import googlemaps
 from datetime import datetime
-import io
+import io 
 
 # Configuração da página
 st.set_page_config(page_title="Lead Finder - Google Maps", layout="wide")
