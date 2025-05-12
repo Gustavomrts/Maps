@@ -1,0 +1,5 @@
+streamlit==1.25.0
+pandas==2.0.3
+googlemaps==4.10.0
+openpyxl==3.1.2
+xlsxwriter==3.1.2
